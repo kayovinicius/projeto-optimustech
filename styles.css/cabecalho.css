@@ -1,0 +1,33 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2em 5em;
+}
+
+.cabecalho-nav {
+    margin: 0 auto 0 5em;
+}
+
+.cabecalho-nav-lista {
+    display: flex;
+    gap: 1.5em;
+}
+
+.cabecalho-nav-link, .cabecalho-cadastrar-link {
+    text-decoration: none;
+    font-family: var(--fonte1);
+
+    color: var(--cor-cinza);
+}
+
+.botao-cadastrar {
+    padding: 0.8em 1.2em;
+    margin-left: 1.5em;
+    border-radius: 8px;
+
+    color: white;
+    background-color: var(--cor-vinho);
+
+}
+

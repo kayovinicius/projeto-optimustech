@@ -1,0 +1,16 @@
+@import url(styles.css/cabecalho.css);
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+    /* FONTES */
+    --fonte1: "Inter", sans-serif;
+
+    /* CORES */
+    --cor-cinza: #667085;
+    --cor-vinho: #8E2424;
+}
+
+body {
+    /* FONTES */
+    font-family: var(--fonte1);
+}
