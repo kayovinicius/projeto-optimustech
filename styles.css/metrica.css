@@ -1,0 +1,33 @@
+.metrica {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    font-family: var(--fonte1);
+}
+
+.metrica-item {
+    width: 16%;
+}
+
+.metrica-item-titulo {
+    font-size: 60px;
+    font-weight: 700;
+
+    margin-bottom: 12px;
+
+    color: var(--cor-vinho);
+}
+
+.metrica-item-subtitulo {
+    font-size: 18px;
+    font-weight: 600;
+
+    margin-bottom: 12px;
+}
+
+.metrica-item-texto {
+    font-size: 16px;
+
+    color: var(--cor-cinza);
+}

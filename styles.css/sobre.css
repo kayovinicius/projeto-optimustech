@@ -1,0 +1,35 @@
+.sobre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    gap: 1em;
+
+    text-align: center;
+    font-family: var(--fonte1);
+
+    padding: 5em;
+
+}
+
+.sobre-nos {
+    color: var(--cor-vinho);
+    font-weight: 600;
+}
+
+.sobre-titulo {
+    font-size: 38px;
+    font-weight: 600;
+
+    margin-bottom: 0.5em;
+}
+
+.sobre-texto {
+    width:50%;
+
+    font-size: 20px;
+
+    color: var(--cor-cinza);
+
+
+}

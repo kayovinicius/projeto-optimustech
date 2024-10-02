@@ -1,5 +1,7 @@
 @import url(styles.css/cabecalho.css);
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url(styles.css/sobre.css);
+@import url(styles.css/metrica.css);
 
 :root {
     /* FONTES */
