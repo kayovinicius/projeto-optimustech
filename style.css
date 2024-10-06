@@ -5,15 +5,18 @@
 @import url(styles.css/banner.css);
 @import url(styles.css/vagas.css);
 @import url(styles.css/depoimento.css);
+@import url(styles.css/rodape.css);
 
 :root {
     /* FONTES */
     --fonte1: "Inter", sans-serif;
 
     /* CORES */
+
     --cor-cinza: #667085;
+    --cor-cinza-claro: #F9FAFB;
     --cor-vinho: #8E2424;
-    --cor-vinho-neutro: #8e24240d;
+    --cor-vinho-neutro: #c3191909;
     --cor-neutra: #EAECF0;
 }
 
