@@ -1,0 +1,43 @@
+.vagas {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5em;
+  
+    width: 60vw;
+    margin: 2em auto;
+
+    font-family: var(--fonte1);
+  }
+  
+  .vagas-titulo-card {
+    margin-top: 2em;
+    margin-bottom: 1em;
+
+    font-size: 20px;
+    font-weight: 550;
+  }
+  
+  .card {
+    border: 1px solid rgba(128, 128, 128, 0.253);
+    border-radius: 10px;
+    
+    padding: 2em;  
+    margin-bottom: 2em;
+  }
+  
+  .card-titulo {
+    margin-bottom: 2em;
+
+    font-size: 18;
+    font-weight: 550;
+  }
+
+  .card-texto {
+    font-size: 16px;
+    color: var(--cor-cinza);
+  }
+  
+  .card-texto-salario {
+    margin-left: 1.5em;
+  }
+  
